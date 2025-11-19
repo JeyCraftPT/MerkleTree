@@ -38,3 +38,19 @@ This project allows you to:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/JeyCraftPT/MerkelTree.git](https://github.com/JeyCraftPT/MerkelTree.git)
+   ```
+   
+2. **Open the project:**
+* Open IntelliJ IDEA.
+* Select `File > Open` and navigate to the `MerkelTree` folder.
+
+### Usage
+1. Navigate to the source folder inside `mktree`.
+2. Compile the Java files (or run via IDE):
+```bash
+javac Main.java
+```
+3. Run the main application to see the tree construction in action:
+```bash
+java Main
+``` 
